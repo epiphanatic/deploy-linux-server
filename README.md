@@ -10,7 +10,6 @@ IP address: 34.205.135.141
 
 SSH port (after below changes): 2200
 
-NOTE: use URL to visit site
 URL: ec2-34-205-135-141.compute-1.amazonaws.com
 
 ### Connecting to Amazon lightsail instance with key
